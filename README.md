@@ -16,27 +16,9 @@
 
 ## 🖤 이런 게임들을 개발했어요 😎
 
-- 잊혀진 서재 (출시 예정) <a href="https://link.tumblbug.com/4EVhzClMuAb"><img src="https://img.shields.io/badge/-tumblbug-gray?style=flat"></a>
-- 단풍 씨앗의 비행 일기 (출시 예정)
+- 단풍 씨앗의 비행 일기 (9월 안드로이드 출시 예정)
+- 잊혀진 서재 (ios 출시 예정) <a href="https://play.google.com/store/apps/details?id=com.sonak.LostLibrary&hl=ko-KR"><img src="https://img.shields.io/badge/Google Play-4aa8d8?style=flat&logo=googleplay&logoColor=white"/></a>
 - 새콤달콤 딸기농장 <a href="https://play.google.com/store/apps/details?id=com.teamfarmer.strawberryfarm&hl=ko"><img src="https://img.shields.io/badge/Google Play-4aa8d8?style=flat&logo=googleplay&logoColor=white"/></a>
 - 날 수 있어, 병아리! <a href="https://play.google.com/store/apps/details?id=com.TeamFlitch.FlyChick2&hl=ko"><img src="https://img.shields.io/badge/Google Play-4aa8d8?style=flat&logo=googleplay&logoColor=white"/></a>
 
 </br>
-</br>
-
-![WooYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooyn730&show_icons=true&theme=buefy)
-
-<!--
-**wooyn730/wooyn730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
