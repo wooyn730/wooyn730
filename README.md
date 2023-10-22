@@ -15,10 +15,11 @@
 
 ## 🖤 이런 게임들을 개발했어요 😎
 
-- 단풍 씨앗의 비행 일기 (10월 초 구글 플레이스토어 출시 예정)
+- Game Over (개발 중)
+- 단풍 씨앗의 비행 일기 (10월 중 구글 플레이스토어 출시 예정)
 - 잊혀진 서재 👉 <a href="https://play.google.com/store/apps/details?id=com.sonak.LostLibrary&hl=ko-KR"><img src="https://img.shields.io/badge/Google Play-white?style=flat&logo=googleplay&logoColor=414141"/></a>
 <a href="https://apps.apple.com/app/ijhyeojin-seojae/id6451304049?src=AppAgg.com"><img src="https://img.shields.io/badge/App Store-0D96F6?style=flat&logo=appstore&logoColor=white"/></a>
-<a href="https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000771781"><img src="https://img.shields.io/badge/1 One Store-EF3656?style=flat&logoColor=white"/></a>
+<a href="https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000771781"><img src="https://img.shields.io/badge/One Store-EF3656?style=flat&logoColor=white"/></a>
 - 새콤달콤 딸기농장 👉 <a href="https://play.google.com/store/apps/details?id=com.teamfarmer.strawberryfarm&hl=ko"><img src="https://img.shields.io/badge/Google Play-white?style=flat&logo=googleplay&logoColor=414141"/></a>
 - 날 수 있어, 병아리! 👉 <a href="https://play.google.com/store/apps/details?id=com.TeamFlitch.FlyChick2&hl=ko"><img src="https://img.shields.io/badge/Google Play-white?style=flat&logo=googleplay&logoColor=414141"/></a>
 
