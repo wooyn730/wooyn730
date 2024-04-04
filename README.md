@@ -1,22 +1,20 @@
 ## 🖤 저는 이런 사람이에요 😉
-- 수료를 마친 공대생 4학년이에요
-- 게임 클라이언트 개발자를 목표로 공부하고 있어요
-- 저를 더 알고 싶다면 이런 방법들이 있어요 👉
-<a href="https://velog.io/@wooyn730/posts"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
-<a href="https://blog.naver.com/jenny1257"><img src="https://img.shields.io/badge/blog-32B44A?style=flat&logo=Naver&logoColor=white"/></a>
-<a href="mailto:bethelight730@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white"/></a>
+- 수료는 했는데 졸업은 미루고 있는 공대생이에요
+- 2020년부터 게임 개발에 발을 들였어요
+- 지금은 게임 클라이언트 개발자 취업을 목표로 공부하고 있어요
+- 사실은 인디게임으로 대박 나고 싶어요
 
-</br>
+<br>
   
-## 🖤 이런 걸 공부 중이에요 😏
+## 🖤 이런 걸 공부 중이에요 😌
 
-<img src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=flat&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/-C%23%20-black?style=flat&logo=C%20Sharp"/> <img src="https://img.shields.io/badge/-C++-black?style=flat&logo=c%2B%2B"/> 
+<img src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=flat&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/-C%23%20-black?style=flat&logo=csharp"/> <img src="https://img.shields.io/badge/-C++-black?style=flat&logo=c%2B%2B"/> 
 
-</br>
+<br>
 
 ## 🖤 이런 게임들을 개발했어요 😎
 
-- Grayed Game (개발 중)
+- Grayed Game _(개발 중)_
 - 단풍 씨앗의 비행 일기
 - 잊혀진 서재 👉 <a href="https://play.google.com/store/apps/details?id=com.sonak.LostLibrary&hl=ko-KR"><img src="https://img.shields.io/badge/Google Play-white?style=flat&logo=googleplay&logoColor=414141"/></a>
 <a href="https://apps.apple.com/app/ijhyeojin-seojae/id6451304049?src=AppAgg.com"><img src="https://img.shields.io/badge/App Store-0D96F6?style=flat&logo=appstore&logoColor=white"/></a>
@@ -24,4 +22,4 @@
 - 새콤달콤 딸기농장 👉 <a href="https://play.google.com/store/apps/details?id=com.teamfarmer.strawberryfarm&hl=ko"><img src="https://img.shields.io/badge/Google Play-white?style=flat&logo=googleplay&logoColor=414141"/></a>
 - 날 수 있어, 병아리! 👉 <a href="https://play.google.com/store/apps/details?id=com.TeamFlitch.FlyChick2&hl=ko"><img src="https://img.shields.io/badge/Google Play-white?style=flat&logo=googleplay&logoColor=414141"/></a>
 
-</br>
+<br>
