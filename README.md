@@ -16,7 +16,7 @@
 
 - Grayed Game 👉 <a href="https://github.com/GG-Studio-990001/Grayed-Game"><img src="https://img.shields.io/badge/Github-gray?style=flat&logo=github&logoColor=414141"/></a>
 - PICO (넥슨 대학생 게임잼 재밌넥 2024)
-- B612 (대학생연합 게임제작동아리 브릿지 게임잼)
+- B612 (대학생연합 게임제작동아리 브릿지 게임잼 2024)
 - 단풍 씨앗의 비행 일기 (넥슨 대학생 게임잼 재밌넥 2023)
 - 잊혀진 서재 👉 <a href="https://play.google.com/store/apps/details?id=com.sonak.LostLibrary&hl=ko-KR"><img src="https://img.shields.io/badge/Google Play-white?style=flat&logo=googleplay&logoColor=414141"/></a>
 <a href="https://apps.apple.com/app/ijhyeojin-seojae/id6451304049?src=AppAgg.com"><img src="https://img.shields.io/badge/App Store-0D96F6?style=flat&logo=appstore&logoColor=white"/></a>
