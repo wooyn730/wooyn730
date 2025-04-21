@@ -21,7 +21,7 @@
 - 잊혀진 서재 👉 <a href="https://play.google.com/store/apps/details?id=com.sonak.LostLibrary&hl=ko-KR"><img src="https://img.shields.io/badge/Google Play-white?style=flat&logo=googleplay&logoColor=414141"/></a>
 <a href="https://apps.apple.com/app/ijhyeojin-seojae/id6451304049?src=AppAgg.com"><img src="https://img.shields.io/badge/App Store-0D96F6?style=flat&logo=appstore&logoColor=white"/></a>
 <a href="https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000771781"><img src="https://img.shields.io/badge/One Store-EF3656?style=flat&logoColor=white"/></a>
-- 새콤달콤 딸기농장 👉 <a href="https://play.google.com/store/apps/details?id=com.teamfarmer.strawberryfarm&hl=ko"><img src="https://img.shields.io/badge/Google Play-white?style=flat&logo=googleplay&logoColor=414141"/></a>
-- 날 수 있어, 병아리! 👉 <a href="https://play.google.com/store/apps/details?id=com.TeamFlitch.FlyChick2&hl=ko"><img src="https://img.shields.io/badge/Google Play-white?style=flat&logo=googleplay&logoColor=414141"/></a>
+- 새콤달콤 딸기농장 👉 <a href="https://play.google.com/store/apps/details?id=com.teamfarmer.strawberryfarm&hl=ko"><img src="https://img.shields.io/badge/Google Play-white?style=flat&logo=googleplay&logoColor=414141"/></a> (현재 미운영)
+- 날 수 있어, 병아리! 👉 <a href="https://play.google.com/store/apps/details?id=com.TeamFlitch.FlyChick2&hl=ko"><img src="https://img.shields.io/badge/Google Play-white?style=flat&logo=googleplay&logoColor=414141"/></a> (현재 미운영)
 
 <br>
